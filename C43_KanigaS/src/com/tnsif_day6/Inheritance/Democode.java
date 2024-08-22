@@ -1,7 +1,7 @@
 package com.tnsif_day6.Inheritance;
 class A{
 	 void show() {
-		System.out.println("i am a parent");
+		System.out.println("am a parent");
 	}}
 	class A1  extends A{
 	 void Demo() {

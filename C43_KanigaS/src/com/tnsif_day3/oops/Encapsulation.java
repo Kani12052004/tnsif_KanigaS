@@ -3,8 +3,8 @@ package com.tnsif_day3.oops;
 public class Encapsulation {
 	// TODO Auto-generated method stub
 			public String name; // data member &instance variable
-			int age;
-			String dept;
+			public int age;
+			public String dept;
 			public String getName() { //naming convension 
 				return name;
 			}

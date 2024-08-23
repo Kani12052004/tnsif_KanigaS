@@ -2,7 +2,7 @@ package com.tnsif_day3.oops;
 
 public class Encapsulation {
 	// TODO Auto-generated method stub
-			String name; // data member &instance variable
+			public String name; // data member &instance variable
 			int age;
 			String dept;
 			public String getName() { //naming convension 

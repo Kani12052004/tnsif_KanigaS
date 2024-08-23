@@ -25,10 +25,9 @@ public class Overloading {
 		result=num1+num2;
 		System.out.println("the result are:"+result);
 	}
-
 	public static void main(String[] args) {
 		Overloading obj=new Overloading();
-		obj.sum(5,32);
+		obj.sum(5,30);
 
 	}
 
